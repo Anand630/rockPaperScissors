@@ -1,0 +1,21 @@
+.result-option-image {
+  width: 150px;
+}
+
+@media (max-width: 640px) {
+  .result-option-image {
+    width: 120px;
+  }
+}
+
+@media (max-width: 490px) {
+  .result-option-image {
+    width: 110px;
+  }
+}
+
+@media (max-width: 375px) {
+  .result-option-image {
+    width: 95px;
+  }
+}

@@ -1,0 +1,33 @@
+.option-list-item {
+  margin: 8px 20px;
+  outline: none;
+}
+
+@media (max-width: 415px) {
+  .option-list-item {
+    margin: 4px 8px;
+  }
+}
+
+.option-image-button {
+  padding: 0;
+  background-color: transparent;
+  border-radius: 50%;
+  height: 140px;
+  width: 140px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+
+@media (max-width: 650px) {
+  .option-image-button {
+    height: 110px;
+    width: 110px;
+  }
+}
+
+.option-image {
+  width: 100%;
+  outline: none;
+}
