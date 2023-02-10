@@ -68,7 +68,7 @@ body {
 }
 
 .middle-container {
-  border: 1px solid #ffffff;
+  /* border: 1px solid #ffffff; */
   padding: 4px 14px;
   margin: 0 10%;
 }
@@ -81,7 +81,7 @@ body {
 }
 
 .game-options-container {
-  border: 1px solid #ffffff;
+  /* border: 1px solid #ffffff; */
   margin: 0 auto;
   padding-left: 0;
   list-style: none;
